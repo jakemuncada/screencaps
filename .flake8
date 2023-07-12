@@ -1,0 +1,14 @@
+[flake8]
+extend-ignore = D401
+max-line-length = 100
+per-file-ignores =
+    __init__.py: D104
+exclude = 
+    __pycache__
+    venv
+    .venv
+    env
+    .env
+    .mypy_cache
+    .pytest_cache
+    .vscode

@@ -1,2 +1,2 @@
 # screencaps
-Python library to create screencaps from video files.
+A Python tool to create screencap thumbnail images from video files.
